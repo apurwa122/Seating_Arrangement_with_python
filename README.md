@@ -6,6 +6,7 @@ OpenPyXL
 Pandas
 
 A Python application to automatically generate optimized seating arrangements for university examinations based on room capacities, student enrollments, and examination schedules.
+
 Features
 1. Room Allocation: Automatically assigns students to rooms based on capacity
 2. Timetable Integration: Processes date-wise and session-wise exam schedules
